@@ -1,2 +1,2 @@
-# Fitness-Finesse
-CS464P Final Project 
+# Tic-Tac-Toe
+A tutorial from React 
